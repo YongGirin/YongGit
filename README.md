@@ -1,6 +1,6 @@
 # YongGit
 ML_DL / Project / Coding 
-### Machin Learning
+### Machine Learning
 ### Deep Learning
 ### Project
 ### Coding
